@@ -3,7 +3,7 @@
 
 ## Setup
 
-Make sure node and npm are installed on your system.
+Make sure node and npm are installed on your system. Check out nvm.
 
 ```bash
 npm install
